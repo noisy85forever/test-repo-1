@@ -2,4 +2,4 @@
 
 Hello World!
 
-This is the second merge conflict
+These are the first and second merge conflicts
